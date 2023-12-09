@@ -1,4 +1,5 @@
 Disney Clone
+                         ![disney](https://github.com/Cheemagagan/Disney-Clone/assets/149753323/6654fcac-4744-4f29-bf9d-2cd60f52b92f)
 
 
 Welcome to the Disney Clone project, a UI design-based replica of the Disney+ streaming platform. This project is built using React.js, Tailwind CSS, and utilizes the TMDB API to fetch movie and TV show data.
@@ -21,5 +22,7 @@ Tailwind CSS: A utility-first CSS framework that makes styling components and la
 
 TMDB API: Integration with The Movie Database (TMDB) API to fetch movie and TV show data, including details, images, and ratings.
 
-Contributing
-We welcome contributions! If you find a bug or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+
+
+
